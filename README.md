@@ -1,7 +1,5 @@
-# eg_mountzonah
-TR - Nasıl kurulur? -resources klasörüne "[ ]" içerisinde bir dosya
-açalım. -- Örn: [hastane] -- -içine bütün dosyaları sürükleyin. -hepsine
-tek tek server.cfg 'den start vermeniz gerekmektedir.
+# Hopital en face de la mairie
+
 
 start carpack\_floor 
 start gta\_props\_fivem 
